@@ -1,0 +1,19 @@
+h1{
+    color: rgb(0, 255, 21);
+}
+h2{
+    color: #afcde9
+}
+p{
+    color: #7fff00;
+}
+button{
+    color: rgb(255, 0, 170);
+    background-color: rgb(200,199,195);
+}
+body{
+    background-color: #9933cc;
+}
+#sampleId {
+    color:chocolate
+}

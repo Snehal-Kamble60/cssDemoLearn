@@ -1,0 +1,35 @@
+*{
+    padding: 15px 15px 15px 15px;
+    margin-top: 8px;
+    margin-left: 25px;
+
+}
+#rec{
+    height: 300px;
+    width: 200px;
+    background-color: black;
+}
+
+#circleRed{
+    height: 60px;
+    width: 60px;
+    background-color: red;
+    border-radius: 50%;
+    margin-left: 50px;
+}
+
+#circleyellow{
+    height: 60px;
+    width: 60px;
+    background-color: yellow;
+    border-radius: 50%;
+    margin-left: 50px;
+}
+
+#circlegreen{
+    height: 60px;
+    width: 60px;
+    background-color: green;
+    border-radius: 50%;
+    margin-left: 50px;
+}
